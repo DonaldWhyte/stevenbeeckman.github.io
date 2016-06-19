@@ -2728,12 +2728,28 @@ Vertival margin, padding
   border-color: #fff;
 }
 
+.lifetime-quote {
+  text-align: center;
+  color: black;
+  font-style: italic;
+}
+
+#mission p {
+  font-size: 18px;
+  text-align: center;
+}
+
+.features-title {
+  color: white;
+}
+
 .module {
   padding: 70px 0px;
 }
 
 .module-title {
   font-size: 36px;
+  margin-bottom: 50px;
 }
 
 .module-subtitle {
@@ -2750,14 +2766,17 @@ Vertival margin, padding
   text-transform: uppercase;
   text-shadow: 0 2px 1px rgba(0,0,0,.6);
 }
+
 .bus-name {
   font-size: 52px;
   letter-spacing: 2px;
 }
+
 .bus-date {
   font-size: 22px;
   letter-spacing: 1px;
 }
+
 .bus-route {
   font-size: 20px;
   letter-spacing: 1px;
